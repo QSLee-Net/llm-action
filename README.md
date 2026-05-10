@@ -57,46 +57,6 @@
 - :link: [AI工程化课程推荐](#ai工程化课程推荐)
 
 
-## 大模型实验室Lab4AI普惠算力
-
-**基于大模型实验室的GPU算力实践**
-
-
-|  主题      | 实践          | 博客/视频     |
-|:------------ |:-----------------------------:|:--------:| 
-| 基于ComfyUI调用Flux文生图模型生成动漫风格图像      | [链接](https://www.lab4ai.cn/project/detail?utm_source=guodong&id=f82ca14acda040ba8a3412feb541ba29&type=project)          | [链接](https://mp.weixin.qq.com/s/OEDQO-IkT4uo_HMjBXGuCA)     |
-| 告别传统客服：三步骤，LLaMA-Factory零代码打造会订票的专属大模型      | [链接](https://www.lab4ai.cn/project/detail?utm_source=guodong&id=a78043adcef84cd998516e1bcd39562f&type=project)          | [链接](https://mp.weixin.qq.com/s/N_CQEBEjN0E31x4Vg31rEQ)    |
-| 打造基于多模态AI的苏东坡数字人      | [链接](https://www.lab4ai.cn/project/detail?utm_source=guodong&id=1f1097f45ea64abca3359e4c0615720a&type=project)          | -     |
-| WeClone：从聊天记录创造数字分身的一站式解决方案      | [链接](https://www.lab4ai.cn/project/detail?utm_source=guodong&id=ab83d14684fa45d197f67eddb3d8316c&type=project)          | [链接](https://mp.weixin.qq.com/s/2pOD8YexWtmuPhV4C7uKJA)     |
-| LightX2V 4步蒸馏模型：20倍速的高质量视频生成革命      | [链接](https://www.lab4ai.cn/project/detail?utm_source=guodong&id=d5556b93078d4defbb58c9f722b674df&type=project)          | [链接](https://mp.weixin.qq.com/s/kVz1dwthn3nOLT0jTeiQgg)     |
-| 基于Qwen3-8B的沉浸式苏东坡角色扮演大模型      | [链接](https://www.lab4ai.cn/project/detail?utm_source=guodong&id=315457fba1b3432c935865d1c5aa1ffe&type=project)          | [链接](https://mp.weixin.qq.com/s/bCCHa2RsKieJZizORU19dQ)     |
-| LightLLM轻量化部署新范式，打造高性能法律智能体      | [链接](https://www.lab4ai.cn/project/detail?utm_source=guodong&id=b417085ae8cd4dd0bef7161c3d583b15&type=project)          | [链接](https://mp.weixin.qq.com/s/j8rJyoBA02ypPEkxb9XSVg)     |
-| RoboMIND——机器人多形态通用智能评测基准      | [链接](https://www.lab4ai.cn/project/detail?utm_source=guodong&id=492a471cd6054a179660c760f0026704&type=project)          | [链接](https://mp.weixin.qq.com/s/i_QPGuqaXfql6cPELxlUVg)     |
-| 经典论文复现：《Attention Is All You Need》      | [链接](https://www.lab4ai.cn/paper/detail?utm_source=guodong&id=e90aa38fdff9420e8902bc71909fa005&type=paper)          | [链接](https://www.bilibili.com/video/BV1Fvp3zBEAN/?spm_id_from=333.1387.homepage.video_card.click)     |
-| 经典论文复现：《SELF-INSTRUCT: Aligning Language Models <br> with Self-Generated Instructions》| [链接](https://www.lab4ai.cn/paper/detail?utm_source=guodong&id=2bbf2f4971f74c6e8def26879233f2fe&type=paper)          | -     |
-
-
-
-**GPU算力优惠活动**
-
-- 资源不够用，来 Lab4AI 享 H800 GPU，用 H800 比 4090 还划算: [详情](https://mp.weixin.qq.com/s/61OtlvP3N4vl0D67eCzSWA)
-
-
-**算力福利**
-
-- 大模型实验室Lab4AI：[免费领取50元GPU算力](https://www.lab4ai.cn/register?agentID=user-PqCML6LJZO)
-- 大模型实验室群：[点击加入](https://github.com/liguodongiot/liguodongiot/tree/main/images/lab4ai.png)
-
-
-
-**AI训练营**
-
-- AI应用开发工程师技能 & 春招面试训练营：[点击加入](https://www.lab4ai.cn/course/detail?utm_source=guodong&id=2b86361ed6a54611850c073defe04327)
-- 斯坦福CS336 从零手搓大语言模型实战：[点击加入](https://www.lab4ai.cn/course/detail?utm_source=guodong&id=49325466ca58436782b65a887883805f)
-- 7天AI智能体全栈开发实战集训营：[点击加入](https://www.lab4ai.cn/course/detail?utm_source=guodong&id=f3fba5d60b2542bf8783e59dcc24d836)
-
-
-
 ## LLM训练
 
 ### LLM训练实战
